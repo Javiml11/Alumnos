@@ -1,5 +1,12 @@
 package Alumno;
 
+
+/**
+ * 
+ * @author javie
+ */
+
+
 public class Alumno {
   private String nombre;
   private double nota = 0.0;
